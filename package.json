@@ -1,0 +1,24 @@
+{
+  "name": "node.uni-http2-node-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hafeez-syed/http2-node-express.git"
+  },
+  "keywords": [],
+  "author": "Hafeez Syed <hafeez.syed@team.telstra.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hafeez-syed/http2-node-express/issues"
+  },
+  "homepage": "https://github.com/hafeez-syed/http2-node-express#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "spdy": "^3.4.7"
+  }
+}
